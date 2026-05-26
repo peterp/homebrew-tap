@@ -1,6 +1,6 @@
 cask "cmdcmd" do
-  version "0.4.0"
-  sha256 "d3480096a93008ebb1cbad353edf1caa75ed9755398a8fa8d58cae67ebd00111"
+  version "0.4.1"
+  sha256 "2c565269a4a4fa2736b83048ad3e0c808bc2e66c83a690e9ff4c0ee458d86a8a"
 
   url "https://github.com/peterp/cmdcmd/releases/download/v#{version}/cmdcmd.zip"
   name "cmdcmd"
